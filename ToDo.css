@@ -1,0 +1,84 @@
+body {
+    margin: 5px;
+    
+}
+
+
+.format {
+    background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+   
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 0.2cm;
+    color: black;
+    height: 45px;
+    width: 50%;
+    padding-top: 5px;
+    margin-left:25%;
+}
+
+#items {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    background-color: transparent;
+    height: 50px;
+    width: 300px;
+    border: 2px solid white;
+    color: white;
+    
+}
+
+#submit {
+    width:150px;
+    height: 42px;
+    font-size: large;
+    background-image: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);
+    color: black;
+    margin: 20px;
+    border-radius: 1cm;
+    font-family: cursive;
+}
+
+h3 {
+    margin-left: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    color:#fda085;
+    letter-spacing: 1px;
+    text-decoration:underline;
+    padding-top: 50px;
+
+    
+}
+
+#todo {
+    margin-left: 35px;
+    font-size: 30px;
+    font-family:cursive;
+    color:white;
+    padding-top: 20px;
+
+}
+
+form {
+    margin-left: 10px;
+    
+}
+
+#submit:hover
+{
+    background: transparent;
+    cursor: pointer;
+    color:white;
+    border: 1px solid white;
+}
+
+ul {
+    color: black;
+    font-size: 25px;
+    margin-left: 5px;
+    width: 400px;
+    border-radius: 10cm;
+    background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
+}
